@@ -19,3 +19,15 @@ This is a **sample automation framework** built with **Java + Selenium + TestNG*
 3. Run the tests with Maven:
    '''bash
    mvn clean test
+
+**Test Example**
+Google Search validation
+
+**Tech Stack**
+Java 17
+Selenium 4
+TestNG 7
+Maven
+WebDriverManager
+
+
