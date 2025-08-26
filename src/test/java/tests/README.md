@@ -11,5 +11,11 @@ This is a **sample automation framework** built with **Java + Selenium + TestNG*
 
 ## How to Run
 1. Clone this repo:
-   ```bash
+   '''bash
    git clone https://github.com/<your-username>/sdet-automation-framework.git
+2. Go inside the project:
+   '''bash
+   cd sdet-automation-framework
+3. Run the tests with Maven:
+   '''bash
+   mvn clean test
